@@ -81,7 +81,6 @@ footer {
 </header>
 
 <section>
-<!--
   <nav>
     <ul>
       <li><a href="#">Home</a></li>
@@ -92,7 +91,7 @@ footer {
       <li><a href="#">Contact</a></li>
     </ul>
   </nav>
--->  
+  
   <article>
     <center>
     <h1>Welcome to Kanhaiya's Homepage</h1>
